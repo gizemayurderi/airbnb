@@ -1,4 +1,4 @@
-# airbnb
+# Upschool Capstone Project - airbnb challenge
 
 I was graduated from Upschool(https://www.upschool.io/?lang=en) in October,2020. 
 My capstone project was about airbnb hiring project on Kaggle.(https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings) In 2015, Airbnb launched a challenge about new user bookings, it was expected to predict first destination of new users.
